@@ -19,8 +19,10 @@
 
 **Laravel API + Vue:** [репозиторий](https://github.com/udjin-arvel/newapi.git)
 <p style="font-size: small"><strong>Описание:</strong> REST API на Laravel + набор лендингов (Vue + Tailwindcss).</p>
+<br>
 
 **Laravel API + React:** [репозиторий](https://github.com/udjin-arvel/x11_test.git)
 <p style="font-size: small"><strong>Описание:</strong> REST API на Laravel + форма оплаты картой (React + Tailwindcss).</p>
+<br>
 
 
